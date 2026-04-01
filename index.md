@@ -20,7 +20,7 @@ email: ["first@example.org","second@example.org"]    # boxed, comma-separated li
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 tickettailor:         # Optional: url bit that points to tickettailor event "1234567/abc/1100"
-pretix:               # Optional: url bit that points to pretix event "organisation/eventid"
+pretix: ARC/2026-05-13-swc              # Optional: url bit that points to pretix event "organisation/eventid"
 what3words:           # optional: what3words (https://what3words.com) address of the workshop venue, without leading slashes e.g. "globe.lessening.computers"
 ---
 
